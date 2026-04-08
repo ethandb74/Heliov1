@@ -1,2 +1,3 @@
 # Heliov1
-Heliov1
+Hand tracking Solar panel module
+IDEA/Concept: Robotic Appendage that is idle and tracks sun to get powered. Then there is a Manual Override mode which is controlled by Hand Motions (Inspired by Tony Stark) The inspiration is robotic arms that build and maintain space systems like the CANADARM of the ISS. Because I have a big passion for Space. What I am actually building is a prototype or model of that. I will make a Cad container that will contain two metal servos that Pan and Tilt. at the end their is a solar panel attached. I have a python script (python --> pyfirmata + MP+pysolar ---> arduino) that 1. tracks the location of the sun and points the appendage at it.and 2. has mode switching capabilities to manual ovveride. There is no robotic Gripper as this is v1 proof of concept. This is my most ambitious project yet.
