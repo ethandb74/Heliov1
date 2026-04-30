@@ -25,3 +25,16 @@ I used a variety of libraries- OpenCV and MP for the hand tracking. Very simple 
 
 <img width="909" height="1077" alt="Screenshot 2026-04-07 201716" src="https://github.com/user-attachments/assets/47230069-3e67-4cf3-8cd8-d23d393c04ae" />
 Handtracking.
+
+
+Bill of Materials
+
+Componant: Arduino,
+Servo MG 9996R,
+Jumper Wires,
+Stranded core copper wire,
+Perfboard,
+
+Quantity: 1x, 2x, 6x, 5x, 1x
+
+see full [BOM.md](./BOM.md)
