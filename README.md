@@ -28,6 +28,19 @@ Handtracking.
 
 
 
+PCB:
+This project is for a Competition and they required the creation of a PCB for this project. In order to create a PCB that actually solved an existing problem (instead of fabricating a problem to make a pcb around) I  decided to replace my previous Power Distribution system which was a poorly soldered perfboard that connected to my external pwoer suppply. 
+See Below: 
+<img width="3024" height="4032" alt="IMG_4482" src="https://github.com/user-attachments/assets/71e863f4-b0a5-4579-8c16-19b4210a54bc" />
+
+To improve this I designed a super simple PCB that uses pin sockets that I instead plug wires into:
+<img width="618" height="490" alt="Screenshot 2026-06-04 232113" src="https://github.com/user-attachments/assets/8c87fa83-4342-4ccf-9cfa-7f8b1bbd8309" />
+
+
+
+
+
+
 
 
 -
